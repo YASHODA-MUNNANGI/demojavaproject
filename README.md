@@ -2,7 +2,7 @@
 
 This is a Java 17 template with Maven and JUnit which can use the preview features of Java. Building happens with `make`
 , running with `./hello`. The project built happens via the Maven wrapper which means that you do not need Maven on your
-machine.
+machine..
 
 To use this template for your code, update the file `pom.xml` with your actual main class. If the class `Hello` in the
 package `se.kth.compilers` contains the main method of your application, the maven file includes the following line.
